@@ -25,4 +25,4 @@ services:
 
 networks:
   sortsmart_network:
-    external: true  # This tells Docker to use the existing network
+#    external: true  # This tells Docker to use the existing network
