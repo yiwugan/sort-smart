@@ -1,0 +1,133 @@
+Here is the list of garbage item types grouped by collection method:
+
+1. **Blue Box Garbage**
+	* Acceptable items: 
+		+ All glass bottles, jars, jugs
+		+ All paper products
+		+ All plastic food trays, containers
+		+ All plastic jugs, jars, bottles (#1-7)
+		+ Aluminum foil/trays/plates/packets
+		+ Cans
+		+ Cardboard (bundled 2’x2x’x1’)
+		+ Drink boxes/cartons
+		+ Egg carton (paper/plastic)
+		+ Milk cartons
+		+ Paint cans (empty, lids removed)
+		+ Spiral bound containers (chip can)
+		+ Water bottles
+		+ Yogurt containers (clean)
+	* Not acceptable items: 
+		+ Tree branches
+		+ Styrofoam
+		+ Plastic bags
+		+ Textiles
+		+ Batteries
+		+ Hazardous waste
+	* Collection method: Put in blue box and put blue box at roadside on collection day morning
+2. **Clear Bag Garbage**
+	* Acceptable items: 
+		+ Non-recyclable plastics
+		+ Broken glass
+		+ Plastic cutlery, drinking straws, coffee cup lids
+		+ Broken plastic toys or lawn furniture
+		+ Wax paper
+	* Not acceptable items: 
+		+ Recyclables (paper, plastic, glass, metal)
+		+ Organics (food waste, yard waste)
+		+ Hazardous waste
+		+ Electronics
+	* Collection method: Put in clear bag and put clear bag at roadside on collection day morning
+3. **Green Bin Garbage**
+	* Acceptable items: 
+		+ Food waste
+		+ Food-soiled paper
+		+ Yard waste (leaves, shrubs, twigs)
+		+ Soiled paper products (paper towels, tissues)
+		+ Diapers
+		+ Pet waste
+	* Not acceptable items: 
+		+ Plastic bags
+		+ Textiles
+		+ Hazardous waste
+		+ Electronics
+	* Collection method: Put in green bin and put green bin at roadside on collection day morning
+4. **Bulk Garbage**
+	* Acceptable items: 
+		+ Furniture
+		+ Appliances
+		+ Mattresses
+		+ Box springs
+	* Not acceptable items: 
+		+ Hazardous waste
+		+ Electronics
+		+ Textiles
+	* Collection method: Put at roadside on bulk collection day
+5. **Yard Waste**
+	* Acceptable items: 
+		+ Leaves
+		+ Shrubs
+		+ Twigs
+		+ Weeds
+		+ Pumpkins
+		+ Flowers/garden plants
+	* Not acceptable items: 
+		+ Grass clippings
+		+ Sod
+		+ Dirt
+		+ Gravel
+		+ Cement
+		+ Tree stumps
+	* Collection method: Put in yard waste bags or containers and put at roadside on collection day morning
+6. **Household Hazardous Waste**
+	* Acceptable items: 
+		+ Batteries
+		+ Electronics
+		+ Paint
+		+ Chemicals
+		+ Fluorescent light bulbs
+	* Not acceptable items: 
+		+ None
+	* Collection method: Take to household hazardous waste depot
+7. **Electronics**
+	* Acceptable items: 
+		+ Computers
+		+ Televisions
+		+ Phones
+		+ Printers
+		+ Scanners
+	* Not acceptable items: 
+		+ None
+	* Collection method: Take to electronics recycling depot
+8. **Textiles**
+	* Acceptable items: 
+		+ Clothing
+		+ Fabric scraps
+		+ Towels
+		+ Bedding
+	* Not acceptable items: 
+		+ None
+	* Collection method: Take to textile recycling depot
+
+Here is the list of waste depot names, locations, and hours:
+
+1. **Markham Village Depot**
+	* Location: 6041 Highway 7 East
+	* Hours: Monday to Friday: 8am-4pm, Saturday: 8am-4pm, Sunday: Closed
+2. **Milliken Mills Depot**
+	* Location: 7660 Kennedy Road
+	* Hours: Friday: 9am-3pm, Saturday: 9am-3pm, Sunday: Closed
+3. **Thornhill Depot**
+	* Location: 5 Green Lane
+	* Hours: Tuesday: 12pm-8pm, Wednesday: 8am-4pm, Thursday: 12pm-8pm, Saturday: 8am-4pm, Sunday: Closed
+4. **Unionville Depot**
+	* Location: 139A Main Street
+	* Hours: Monday: 10am-6pm, Tuesday: 12pm-8pm, Thursday: 12pm-8pm, Saturday: 8am-4pm, Sunday: Closed
+5. **York Region Household Hazardous Waste Depot**
+	* Location: 403 Rodick Road
+	* Hours: Monday: 8:30am-4:30pm, Tuesday: Closed, Wednesday: Closed, Thursday: 8:30am-4:30pm, Friday: 8:30am-4:30pm, Saturday: 8:30am-4:30pm, Sunday: 8:30am-3:30pm
+6. **Earl Turcott Waste Management Facility**
+	* Location: 300 Rodick Road
+	* Hours: Monday to Friday: 8am-5pm, Saturday: 8am-5pm, Sunday: 9am-5pm
+7. **Bloomington Compost Facility**
+	* Location: 1351 Bloomington Rd East
+	* Hours: Monday to Friday: 8am-5pm, Saturday: 8am-5pm, Sunday: 9am-5pm

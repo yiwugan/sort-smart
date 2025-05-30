@@ -1,0 +1,125 @@
+Based on the provided garbage collection instructions, here are the garbage item types grouped by collection method:
+
+1. **Blue Box (Recycling) Garbage**
+	* Acceptable items: 
+		+ Most paper, plastic, glass, and metal containers and packaging
+		+ Magazines, newspaper, and cardboard cartons (small bits or pieces go in the garbage)
+		+ Plastic and glass bottles
+		+ Milk and juice cartons
+		+ Juice boxes
+		+ Plastic cups (straws go in the garbage)
+	* Not acceptable items: 
+		+ Tree branches
+		+ Food waste
+		+ Liquids
+	* Collection method: Put in blue box and place at roadside on collection day morning
+2. **Green Bin (Organics) Garbage**
+	* Acceptable items: 
+		+ Food scraps
+		+ Fruit and vegetable peels
+		+ Bones, meat, and fish
+		+ Coffee grounds and filters
+		+ Paper napkins, paper towels
+		+ Loose shredded paper
+		+ Cotton balls
+		+ Greasy pizza boxes
+		+ Microwave popcorn bags
+		+ House plants (soil removed)
+	* Not acceptable items: 
+		+ Diapers
+		+ Plastic grocery or retail bags
+	* Collection method: Put in green bin and place at roadside on collection day morning
+3. **Grey Bin (Garbage) Garbage**
+	* Acceptable items: 
+		+ Aluminum foil
+		+ Bread and milk tags
+		+ Chewing gum
+		+ Coffee cups
+		+ Diapers
+		+ Feminine hygiene products
+		+ Pet waste
+		+ Plastic cereal and cracker box liners
+		+ Shrink wrap
+	* Not acceptable items: 
+		+ Recyclable materials
+		+ Organic materials
+	* Collection method: Put in grey bin and place at roadside on collection day morning
+4. **Yard Waste Garbage**
+	* Acceptable items: 
+		+ Leaves and yard rakings with debris
+		+ Tree trimmings and branches
+		+ Brush and hedge trimmings
+		+ Household and garden plants
+		+ Halloween pumpkins (without the candle)
+	* Not acceptable items: 
+		+ Plastic bags
+		+ Metal or glass
+	* Collection method: Put in yard waste bags or bundles and place at roadside on collection day morning
+5. **Household Hazardous Waste**
+	* Acceptable items: 
+		+ Paints and stains
+		+ Batteries
+		+ Fuels, solvents, adhesives
+		+ Automotive fluids
+		+ Oil filters
+		+ Fertilizers and pesticides
+		+ Aerosol cans
+		+ Household cleaners and detergents
+		+ Powdered cement and grout
+		+ Pool chemicals
+		+ Sharps (syringes, needles, lancets)
+		+ Medications
+		+ Cooking oil
+		+ Fluorescent tube lamps, incandescent bulbs, LED bulbs, compact fluorescent lamps
+		+ Fluorescent lamp ballasts
+		+ Mercury thermometers/thermostats
+		+ Propane and helium cylinders
+	* Not acceptable items: 
+		+ Asbestos
+		+ Radioactive waste
+		+ PCB contaminated waste
+	* Collection method: Take to a Community Recycling Centre
+6. **Large Appliances**
+	* Acceptable items: 
+		+ Air conditioner
+		+ Dehumidifier
+		+ Dish washer
+		+ Dryer
+		+ Fireplace insert (metal)
+		+ Freezer
+		+ Fridge
+		+ Furnace
+		+ Heat pump/exchanger
+		+ Hot water tank
+		+ Oil tanks (empty)
+		+ Pool heaters (metal)
+		+ Safes (home, metal)
+		+ Shower enclosure (metal)
+		+ Stove
+		+ Tub (metal)
+		+ Washer (clothes)
+		+ Water cooler
+	* Not acceptable items: 
+		+ Non-metal appliances
+	* Collection method: Take to a Community Recycling Centre
+
+Here are the waste depot names, locations, and hours:
+
+1. **Brampton Community Recycling Centre**
+	* 395 Chrysler Dr., Brampton
+	* Monday - Sunday, 8:30 a.m. - 4:30 p.m.
+2. **Heart Lake Community Recycling Centre**
+	* 420 Railside Dr., Brampton
+	* Monday - Sunday, 8:30 a.m. - 4:30 p.m.
+3. **Bolton Community Recycling Centre**
+	* 109 Industrial Road, Bolton
+	* Tuesday - Saturday, 8:30 a.m. - 4:30 p.m.
+4. **Caledon Community Recycling Centre**
+	* 1795 Quarry Drive, Caledon
+	* Monday - Saturday, 8:30 a.m. - 4:30 p.m.
+5. **Battleford Community Recycling Centre**
+	* 2255 Battleford Rd., Mississauga
+	* Monday - Sunday, 8:30 a.m. - 4:30 p.m.
+6. **Fewster Community Recycling Centre**
+	* 1126 Fewster Dr., Mississauga
+	* Monday - Sunday, 8:30 a.m. - 4:30 p.m.

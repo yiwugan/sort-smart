@@ -1,0 +1,24 @@
+Based on the provided garbage collection instruction, here are the garbage item types grouped by collection method:
+
+1. **Electronic Waste**
+	* Acceptable items: Televisions, Computers and monitors, VCRs, Electronic calculators, Telephones, Digital cameras, Computer accessories, Modems, Video game consoles, Scanners, Photocopiers, Radios and stereos, Hard drives, Printers, Electronic pagers, Fax machines, Electronic games
+	* Not acceptable items: None specified
+	* Collection method: Take to the Elgin Mills Community Environmental Centre or other waste drop-off locations
+2. **Household Hazardous Waste**
+	* Acceptable items: Paint, Pesticides, Propane tanks, Batteries, Pharmaceuticals, Syringes, Thermostats, Used motor oil and filters, Fuels, Many cleaning products, Fluorescent tubes and energy efficient light bulbs, Mercury
+	* Not acceptable items: None specified
+	* Collection method: Take to one of York Region's household hazardous waste depots
+3. **Large Appliance and Metal Goods**
+	* Acceptable items: Air conditioner, BBQ, Dishwasher, Freezer, Dehumidifier/humidifier, Microwave, Refrigerator, Stove/Range Hood, Washer, Dryer, Metal bathtub, Bed - Metal frame only, Bicycle, Desk - metal only, Metal exercise equipment, Filing cabinet, Garage door opener & rails, Ladder - metal only, Lawnmower, Snowblower, Swing set, Furnace, Hot water tank, Lawn furniture, Metal shelving, Pool heater, Water cooler
+	* Not acceptable items: Bulky/furniture item that is not mostly metal, Electronic waste (e.g. TV), Water softener
+	* Collection method: Schedule a pickup appointment online or call Access Richmond Hill, or drop off at one of York Region's waste depots
+4. **Yard Waste**
+	* Acceptable items: Leaves, Pine cones, Fallen fruit, Tree/shrub clippings, Weeds, Flowers, Pumpkins, Clean straw, Dried corn stalks
+	* Not acceptable items: Soil, Sod, Grass clippings
+	* Collection method: Place in a large Kraft paper bag, cardboard box, or reusable container, and put at the curb on the designated collection day
+
+Here are the waste depot names, locations, and hours:
+
+1. **Elgin Mills Community Environmental Centre**: Location not specified, Hours not specified
+2. **Bloomington Yard Waste Depot**: 1351 Bloomington Road, Richmond Hill, Hours not specified (visit [york.ca/wastedepots](https://www.york.ca/environment/garbage-and-recycling/waste-depots) for hours and fees)
+3. **York Region's waste depots**: Multiple locations, Hours not specified (visit [york.ca/wastedepots](https://www.york.ca/environment/garbage-and-recycling/waste-depots) for hours and locations)
