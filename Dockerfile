@@ -28,9 +28,10 @@ COPY --from=builder /usr/local/bin/uvicorn /usr/local/bin/uvicorn
 # Only copy uvicorn (adjust if other binaries are needed)
 
 # Copy minimal source code
-COPY data/* ./
-COPY static/* ./
+COPY data ./
+COPY static ./
 COPY *.py ./
+COPY .env ./
 # Copy only the required file(s)
 
 # Create non-root user
