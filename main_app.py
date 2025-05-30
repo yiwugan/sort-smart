@@ -28,7 +28,7 @@ load_dotenv()
 
 # Configuration
 class Config:
-    UPLOAD_DIR = Path(os.getenv("UPLOAD_DIR", "/work/temp-data"))
+    UPLOAD_DIR = Path(os.getenv("UPLOAD_DIR", "/app/temp-data"))
     MAX_IMAGE_SIZE = int(os.getenv("MAX_IMAGE_SIZE", 80000))
     ALLOWED_ORIGINS = os.getenv("ALLOWED_ORIGINS", "").split(",")
     HOST = os.getenv("HOST", "0.0.0.0")

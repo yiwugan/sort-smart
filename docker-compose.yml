@@ -1,0 +1,28 @@
+version: '3.9'
+
+services:
+  sortsmart-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: sortsmart-app
+    restart: unless-stopped
+    ports:
+      - "8090:8090"
+    env_file:
+      - .env  # Load variables from local .env file
+    environment: []
+    volumes: []
+#      - /work/temp-data
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8090/docs"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+    networks:
+      - sortsmart_network
+
+networks:
+  sortsmart_network:
+    external: true  # This tells Docker to use the existing network
